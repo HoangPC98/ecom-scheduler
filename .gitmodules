@@ -1,0 +1,3 @@
+[submodule "ecom-gateway-api"]
+	path = ecom-gateway-api
+	url = git@github.com:HoangPC98/ecom-gateway-api.git
